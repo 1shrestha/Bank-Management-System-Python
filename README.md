@@ -68,6 +68,4 @@ This project helped me learn:
 - User authentication
 - Admin dashboard
 
-## Author
 
-Agstston
